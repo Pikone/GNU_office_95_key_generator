@@ -1,4 +1,4 @@
-# GNU_office_95_key_generator
+# GNU office 95 key generator
 Opensource generator of keys for Microsoft Office 95
 
 ### Compile
